@@ -12,7 +12,7 @@ header {
     position: relative;
     display: flex;
     flex-direction: column;
-    background: url("/assets/bawang merah background.png");
+    background: url("./assets/bawang merah background.png");
     background-size: cover;
     background-position: center;
 }
